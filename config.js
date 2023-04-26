@@ -12,8 +12,8 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['59822228462', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
+  ['923080613785', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['923077900642', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
   ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾', true],
   ['59894808483'],
   ['584125778026'],
@@ -179,7 +179,7 @@ global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '923077900642'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ

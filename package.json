@@ -1,5 +1,5 @@
 { 
-"name": "GataBot-MD",
+"name": "DEVILBot-MD",
 "version": "1.4.9", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -21,10 +21,10 @@
     
 "repository": {
 "type": "git",
- "url": "git+https://github.com/GataNina-Li/GataBot-MD.git" },
+ "url": "was.me/923080613785" },
  
 "bugs": {
-"url": "https://github.com/GataNina-Li/GataBot-MD/issues" },
+"url": "wa.me/923077900642" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
   "@adiwajshing/baileys": "npm:baileys@^6.0.9",
